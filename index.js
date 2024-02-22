@@ -89,7 +89,7 @@ const player = new Fighter({
 const enemy = new Fighter({
   position: {
     x: 830,
-    y: 100
+    y: 0
   },
   velocity: {
     x: 0,
